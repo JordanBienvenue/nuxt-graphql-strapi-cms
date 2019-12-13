@@ -1,0 +1,1 @@
+# nuxt-graphql-strapi-cms
